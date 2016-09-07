@@ -72,7 +72,7 @@ See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
 
 | Scenario  | Status quo | Proposed policy |
 |---|---|---|
-| **Minor documentation contribution:**<br> A deployer discovers an error in the wiki deployment documentation and directly edits the wiki.  | They are in violation of the current policy if they do not have a CLA on file. |  As there is no need to file a CLA for  contributions under the proposed policy, direct edits are consistant with the proposed policy. Committers (and others) can monitor wiki updates for inapproriate edits. |
+| **Minor documentation contribution:**<br> A deployer discovers an error in [the wiki deployment documentation][UPM43 Building and Deploying uPortal] and directly edits the wiki.  | They are in violation of [the current policy][licensing stance for uPortal manual 3.2 and later] if they do not have a CLA on file. |  As there is no need to file a CLA for  contributions under the proposed policy, direct edits are consistant with the proposed policy. Committers (and others) can monitor wiki updates for inapproriate edits. |
 | **Minor code contribution:**<br> A developer discovers a bug in the uPortal codebase and submits the fix via a Git pull request or an email to the project list. | A committer contacts them requesting they submit a CLA before the change can be accepted; the developer decides it is not worth the hassel and the contribution is not accepted. <br>OR<br> A committer inserts the fix into the project knowing there is no CLA on file, a violation of the current policy. | As there is no need to file a CLA for minor contributions under the proposed policy, a committer can readily add the code to the project. |
 | **Major code contribution:**<br> A developer creates a new code module and submits it via a Git pull request. | A committer contacts them requesting they submit a CLA before the contribution can be accepted; the contributor decides it is not worth the hassel and the contribution is not accepted. <br>OR<br> A committer adds the code into the project knowing there is n CLA on file, a violation of the current policy. | A committer judges the contribution as significant and contacts them requesting they submit a CLA before the change can be accepted; the contributor decides it is not worth the hassel; the committer can make an evaluation as to whether or not to still accept the code. |
 
@@ -82,3 +82,6 @@ See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
 * [Apereo licensing discussion list topic](https://groups.google.com/a/apereo.org/d/topic/licensing-discuss/c1puG3RKZcA/discussion)
 
 [Apache 2 license]: http://www.apache.org/licenses/LICENSE-2.0
+
+[licensing stance for uPortal manual 3.2 and later]: https://wiki.jasig.org/display/UPC/Documentation+Licensing
+[UPM43 Building and Deploying uPortal]: https://wiki.jasig.org/display/UPM43/Building+and+Deploying+uPortal
