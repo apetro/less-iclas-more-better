@@ -48,7 +48,7 @@ Committer: Privileged project participant, typically with write access to the ca
 
 Contributor: Anyone who contributes a contribution that is included in the open source product. (See also: [Apache 2 license][] definition of "Contributor".)
 
-Contribution: Anything intentionally submitted for inclusion in the open souce product. (See also: [Apache 2 license][] definition of "Contribution".)
+Contribution: Anything intentionally submitted for inclusion in the open source product. (See also: [Apache 2 license][] definition of "Contribution".)
 
 ## Why do we care?
 
