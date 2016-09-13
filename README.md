@@ -80,6 +80,7 @@ See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
 
 * [Blog post explaining that Apache does not require CLAs of contributors](http://apetro.ghost.io/apache-contributors-no-cla/)
 * [Apereo licensing discussion list topic](https://groups.google.com/a/apereo.org/d/topic/licensing-discuss/c1puG3RKZcA/discussion)
+* the `supporting_resources` folder alongside this `README.md`
 
 [Apache 2 license]: http://www.apache.org/licenses/LICENSE-2.0
 
