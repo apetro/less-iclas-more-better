@@ -33,9 +33,9 @@ Supporting resources for Apereo board consideration of relaxing requiring ICLAs 
 In general, this policy change is intended to 
 
 * bring Apereo in line with how the Apache Foundation requires ICLAs of its committers but does not universally require CLAs of contributors.
-* reduce needless friction in accepting contributions
+* reduce friction in accepting contributions
 
-This policy change stops needlessly requiring CLAs of contributors. Projects and individual committers can still require CLAs where they see a need.
+This policy change stops universally requiring CLAs of contributors. Projects and individual committers can still require CLAs where they see a need.
 
 * projects, through their PMCs, could still require CLAs of their contributors.
 * individual committers can still require CLAs in their determining their individual comfort with committing a contribution. (Attempted contributions always require committer action to actually become part of Apereo software; committers can and should gate that action on all sorts of things, including comfort with the provenance of the contribution).
@@ -57,7 +57,7 @@ Requiring CLAs of contributors adds
 * friction to committers, in their having to check for CLA compliance, nag for this.
 * friction to contributors, in their having to understand, print, sign, scan or fax, and follow up on their CLA submission.
 
-but does not add value, since the [Apache 2 license][] already specifies that contributions intentionally submitted for inclusion in the work may be distributed under the Apache 2 license.
+but adds little value, since the [Apache 2 license][] already specifies that contributions intentionally submitted for inclusion in the work may be distributed under the Apache 2 license.
 
 ## What does Apache do?
 
