@@ -78,9 +78,9 @@ See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
 
 ## Resources for learning more
 
-* [Blog post explaining that Apache does not require CLAs of contributors](http://apetro.ghost.io/apache-contributors-no-cla/)
+* [Blog post explaining that Apache does not require CLAs of contributors][]
 * [Survey of CLA practices across some projects][]
-* [Apereo licensing discussion list topic](https://groups.google.com/a/apereo.org/d/topic/licensing-discuss/c1puG3RKZcA/discussion)
+* [Apereo licensing discussion list topic][]
 * the `supporting_resources` folder alongside this `README.md`
 
 [Apache 2 license]: http://www.apache.org/licenses/LICENSE-2.0
@@ -88,3 +88,5 @@ See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
 [licensing stance for uPortal manual 3.2 and later]: https://wiki.jasig.org/display/UPC/Documentation+Licensing
 [UPM43 Building and Deploying uPortal]: https://wiki.jasig.org/display/UPM43/Building+and+Deploying+uPortal
 [Survey of CLA practices across some projects]: http://apetro.ghost.io/cla-landscape/
+[Apereo licensing discussion list topic]: https://groups.google.com/a/apereo.org/d/topic/licensing-discuss/c1puG3RKZcA/discussion
+[Blog post explaining that Apache does not require CLAs of contributors]: http://apetro.ghost.io/apache-contributors-no-cla/)
