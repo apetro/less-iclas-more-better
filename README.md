@@ -89,4 +89,4 @@ See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
 [UPM43 Building and Deploying uPortal]: https://wiki.jasig.org/display/UPM43/Building+and+Deploying+uPortal
 [Survey of CLA practices across some projects]: http://apetro.ghost.io/cla-landscape/
 [Apereo licensing discussion list topic]: https://groups.google.com/a/apereo.org/d/topic/licensing-discuss/c1puG3RKZcA/discussion
-[Blog post explaining that Apache does not require CLAs of contributors]: http://apetro.ghost.io/apache-contributors-no-cla/)
+[Blog post explaining that Apache does not require CLAs of contributors]: http://apetro.ghost.io/apache-contributors-no-cla/
