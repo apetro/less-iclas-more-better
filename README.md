@@ -66,7 +66,7 @@ Apache's policy is the proposed policy rather than the status quo policy.
 * Apache requires ICLAs of individual committers.
 * Apache does not (universally, at a Foundation level) require CLAs of contributors.
 
-See also [analysis](http://apetro.ghost.io/apache-contributors-no-cla/).
+See also [analysis][Blog post explaining that Apache does not require CLAs of contributors].
 
 ## Working examples
 
